@@ -57,3 +57,20 @@
 - Buy Sharkman Karate
 - Buy Electric Claw
 - Buy God Human
+- Buy Cutlass
+- Buy Iron Mace
+- Buy Dual Katana
+- Buy Triple Katana
+- Buy Dual-Headed Blade
+- Buy Bisento
+- Buy Soul Cane
+- Buy Geppo
+- Buy Buso Haki
+- Buy Soru
+- Buy Ken Haki
+- Buy Kabucha
+- Buy Flintlock
+- Buy Musket
+- Buy Slingshot
+- Buy Cannon
+- Random Fruit
