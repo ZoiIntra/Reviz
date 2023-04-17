@@ -74,3 +74,17 @@
 - Buy Slingshot
 - Buy Cannon
 - Random Fruit
+- Join Priate Team
+- Join Marines Team
+- JobId Join
+- Rejoin Server
+- Server Hop
+- Inventory Fruit UI
+- Shop Devil Fruit UI
+- Color Haki UI
+- Title Name UI
+- Anit Afk
+- Auto Decrease Money
+- Roll Player
+- Active Info Stats
+- And more...
