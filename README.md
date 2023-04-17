@@ -93,3 +93,9 @@ At now use script [ Free ] with no key system !
 - Roll Player
 - Active Info Stats
 - And more...
+# Contact
+[Join Discord](https://discord.gg/9vw7emS3vZ)
+# Script Developer
+- ! Zoi X#0007 (Scripter)
+- ratiwatxiz#2300 (Owner)
+- Inglis yukusu#5307 (Other)
