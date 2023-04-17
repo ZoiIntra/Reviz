@@ -1,6 +1,5 @@
 # Reviz Hub
 Our community is built by a group of Thai people. Our community is open to anyone who wants to use scripts in Roblox. Through various executor such as Synapse X, KRNL, Script Ware etc. Our community scripts support a wide variety of games. It is available for free through our system. We would like to thank all of you for your support.
-![image](https://raw.githubusercontent.com/ZoiIntra/Reviz/main/Reviz.png)
 # Script
 At now use script [ Free ] with no key system !
 # Features and UI
@@ -100,3 +99,5 @@ At now use script [ Free ] with no key system !
 - ! Zoi X#0007 (Scripter)
 - ratiwatxiz#2300 (Owner)
 - Inglis yukusu#5307 (Other)
+# Logo
+![image](https://raw.githubusercontent.com/ZoiIntra/Reviz/main/Reviz.png)
