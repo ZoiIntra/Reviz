@@ -5,7 +5,8 @@ At now use script [ Free ] with no key system !
 # Features and UI
 ![image](https://cdn.discordapp.com/attachments/1093814269985947649/1097508781027508365/image.png)
 - Auto Farm Level
-- Auto Mastery
+- Auto Farm Level Fast ( Premium )
+- Auto Mastery Fruits
 - Auto New world
 - Auto Saber 
 - Auto Third Word 
@@ -15,7 +16,10 @@ At now use script [ Free ] with no key system !
 - Random Bone
 - Auto Cake Prince
 - Auto Chest
-- Fast Attact
+- Fast Attact Normal
+- Fast Attact Ultra ( Premium )
+- Anti Ban 95%
+- Anti Ban 100% ( Premium )
 - White Screen
 - Auto Set Spawn
 - Auto Haki
@@ -91,7 +95,6 @@ At now use script [ Free ] with no key system !
 - Anit Afk
 - Auto Decrease Money
 - Roll Player
-- Active Info Stats
 - And more...
 # Contact
 [Join Discord](https://discord.gg/9vw7emS3vZ)
