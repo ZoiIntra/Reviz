@@ -1,7 +1,7 @@
 # Reviz Hub
 Our community is built by a group of Thai people. Our community is open to anyone who wants to use scripts in Roblox. Through various executor such as Synapse X, KRNL, Script Ware etc. Our community scripts support a wide variety of games. It is available for free through our system. We would like to thank all of you for your support.
 # Script
-At now use script [ Free ] with no key system !
+100฿ or 50 TRUEMONEY E-PIN 2 Times
 # Features and UI
 ![image](https://cdn.discordapp.com/attachments/1093814269985947649/1097508781027508365/image.png)
 - Auto Farm Level
